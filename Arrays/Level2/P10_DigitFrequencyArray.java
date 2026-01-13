@@ -1,0 +1,30 @@
+package Arrays.Level2;
+
+import java.util.Scanner;
+
+class P10_DigitFrequencyArray {
+
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+        int number = input.nextInt();
+
+        int[] frequency = new int[10];
+
+        while (number != 0) {
+
+            int digit = number % 10;
+            frequency[digit]++;
+            number /= 10;
+        }
+
+        for (int i = 0; i < frequency.length; i++) {
+
+            if (frequency[i] > 0) {
+                System.out.println("Digit " + i + " occurred " + frequency[i] + " times");
+            }
+        }
+
+        input.close();
+    }
+}
