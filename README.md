@@ -1,6 +1,62 @@
-# Daily Status Update
+# BridgeLabz_Java Daily Status Update Log
+## 8th December 2025
 
-## 14th December 2025
+### What I have done:
+* Worked on basics of Java
+
+### What I will do next:
+* Java Leetcode questions
+
+### Issues faced:
+* No issues faced
+
+## 9th December 2025
+
+### What I have done:
+* Java Leetcode Questions
+
+### What I will do next:
+* More Practice from Strivers
+
+### Issues faced:
+* No issues faced
+
+## 10th December 2025
+
+### What I have done:
+* Java Practice from Strivers
+
+### What I will do next:
+* Git Understanding
+
+### Issues faced:
+* Understanding and Learning Complex problems
+
+## 11th December 2025
+
+### What I have done:
+* Git Introduction
+
+### What I will do next:
+* SQL practice and Git
+
+### Issues faced:
+* Understanding and Learning Git
+
+## 12th December 2025
+
+### What I have done:
+* SQL Leetcode practice
+* Git tutorials
+
+### What I will do next:
+* Github Workflow
+
+### Issues faced:
+* No issues faced
+
+
+## 13th December 2025
 
 ### What I have done:
 * Created Github Workflow
