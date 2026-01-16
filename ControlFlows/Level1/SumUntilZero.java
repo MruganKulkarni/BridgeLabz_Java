@@ -1,6 +1,15 @@
 import java.util.Scanner;
 
-class P10_SumUntilZero {
+class SumUntilZero
+/*
+ * Problem Statement:
+ * Write a program that keeps accepting numbers and calculates their
+ * sum until the user enters zero. The program should stop processing
+ * when zero is encountered.
+ *
+ * This problem demonstrates loop termination using conditions.
+ */
+ {
 
     public static void main(String[] args) {
 

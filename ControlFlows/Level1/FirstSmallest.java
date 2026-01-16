@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
-class P02_FirstSmallest {
+class FirstSmallest
+
+/*
+ * Problem Statement:
+ * Write a program to compare two numbers and determine which one is
+ * smaller. The program should evaluate the values and display the
+ * smallest number.
+ *
+ * This problem demonstrates basic conditional comparison.
+ */
+{
 
     public static void main(String[] args) {
 

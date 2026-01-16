@@ -1,6 +1,15 @@
 import java.util.Scanner;
 
-class P11_SumUntilZeroOrNegative {
+class P11_SumUntilZeroOrNegative
+/*
+ * Problem Statement:
+ * Write a program to calculate the sum of numbers entered by the user
+ * until a zero or negative number is encountered. The program should
+ * terminate when the stopping condition is met.
+ *
+ * This problem focuses on conditional loop termination.
+ */
+ {
 
     public static void main(String[] args) {
 

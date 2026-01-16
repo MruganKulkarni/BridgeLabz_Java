@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
-class P02_TriangleArea {
+class TriangleArea
+
+/*
+ * Problem Statement:
+ * Write a program to calculate the area of a triangle given its base
+ * and height. The program should apply the standard mathematical
+ * formula for calculating the area of a triangle.
+ *
+ * This program helps understand formula-based calculations.
+ */
+{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Base (cm): ");

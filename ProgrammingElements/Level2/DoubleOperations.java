@@ -1,6 +1,15 @@
 import java.util.Scanner;
 
-class P08_DoubleOperations {
+class DoubleOperations 
+/*
+ * Problem Statement:
+ * Write a program to perform a sequence of arithmetic operations
+ * involving double-precision values. The program should evaluate
+ * expressions using decimal numbers and display the results.
+ *
+ * This program demonstrates floating-point arithmetic in Java.
+ */
+{
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);

@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
-class P04_FeetToYardMile {
+class FeetToYardMile
+
+/*
+ * Problem Statement:
+ * Write a program to convert a given distance in feet into yards and miles.
+ * The program should apply appropriate conversion factors to display
+ * the equivalent distances.
+ *
+ * This program demonstrates unit conversion using arithmetic calculations.
+ */
+{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Distance in Feet: ");

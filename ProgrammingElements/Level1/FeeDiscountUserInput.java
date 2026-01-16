@@ -1,6 +1,15 @@
 import java.util.Scanner;
 
-class FeeDiscountUserInput {
+class FeeDiscountUserInput 
+/*
+ * Problem Statement:
+ * Write a program to calculate the discounted fee amount by taking
+ * the original fee and discount percentage as user input. The program
+ * should compute and display the final payable fee.
+ *
+ * This program demonstrates user input handling and arithmetic operations.
+ */
+{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Fee: ");

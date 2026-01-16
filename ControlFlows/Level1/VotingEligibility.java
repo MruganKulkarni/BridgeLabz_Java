@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
-class P05_VotingEligibility {
+class P05_VotingEligibility 
+
+/*
+ * Problem Statement:
+ * Write a program to determine whether a person is eligible to vote
+ * based on their age. The program should validate the age against
+ * the minimum voting requirement.
+ *
+ * This problem demonstrates decision-making using conditions.
+ */
+{
 
     public static void main(String[] args) {
 

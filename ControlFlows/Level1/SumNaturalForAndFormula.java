@@ -1,6 +1,17 @@
 import java.util.Scanner;
 
-class P13_SumNaturalForAndFormula {
+class SumNaturalForAndFormula
+
+/*
+ * Problem Statement:
+ * Write a program to calculate the sum of the first n natural numbers
+ * using a for loop and also using the mathematical formula.
+ * The program should display both results.
+ *
+ * This problem reinforces loop-based computation.
+ */
+
+{
 
     public static void main(String[] args) {
 

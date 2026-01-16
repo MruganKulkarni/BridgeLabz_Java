@@ -1,4 +1,13 @@
-class PenDistribution {
+class PenDistribution
+/*
+ * Problem Statement:
+ * Write a program to distribute a given number of pens equally among
+ * a specified number of students. The program should calculate how many
+ * pens each student receives and how many pens remain undistributed.
+ *
+ * This program demonstrates division and remainder operations.
+ */
+ {
     public static void main(String[] args) {
         int totalPens = 14;
         int students = 3;

@@ -1,7 +1,16 @@
 import java.util.Scanner;
 
-// Class to compute sum of natural numbers using formula
-class P04_NaturalNumberSum {
+
+class NaturalNumberSum
+
+/*
+ * Problem Statement:
+ * Write a program to calculate the sum of the first n natural numbers.
+ * The program should use a loop to iteratively compute the total sum.
+ *
+ * This problem introduces iterative control structures.
+ */
+{
 
     public static void main(String[] args) {
 

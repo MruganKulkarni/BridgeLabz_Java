@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
-class P06_PositiveNegativeZero {
+class PositiveNegativeZero
+
+/*
+ * Problem Statement:
+ * Write a program to check whether a given number is positive,
+ * negative, or zero. The program should evaluate the value and
+ * display the corresponding result.
+ *
+ * This problem focuses on multi-branch conditional logic.
+ */
+{
 
     public static void main(String[] args) {
 

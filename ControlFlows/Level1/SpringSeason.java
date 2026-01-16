@@ -1,4 +1,14 @@
-class P07_SpringSeason {
+class SpringSeason
+
+/*
+ * Problem Statement:
+ * Write a program to determine whether a given date falls within
+ * the spring season. The program should check the day and month
+ * against predefined seasonal conditions.
+ *
+ * This problem applies compound conditional expressions.
+ */
+{
 
     public static void main(String[] args) {
 

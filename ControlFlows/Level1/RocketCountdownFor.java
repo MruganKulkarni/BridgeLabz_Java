@@ -1,6 +1,15 @@
 import java.util.Scanner;
 
-class P09_RocketCountdownFor {
+class RocketCountdownFor
+/*
+ * Problem Statement:
+ * Write a program to simulate a rocket countdown using a for loop.
+ * The program should display numbers in descending order until
+ * the countdown completes.
+ *
+ * This problem compares different looping constructs.
+ */
+ {
 
     public static void main(String[] args) {
 

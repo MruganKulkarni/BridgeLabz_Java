@@ -1,7 +1,17 @@
 import java.util.Scanner;
 
 // Class to print multiplication table from 6 to 9
-class P18_MultiplicationTable {
+class MultiplicationTable
+
+/*
+ * Problem Statement:
+ * Write a program to display the multiplication table of a given
+ * number. The program should use a loop to generate and display
+ * the table.
+ *
+ * This problem reinforces loop-based repetition.
+ */
+{
 
     public static void main(String[] args) {
 

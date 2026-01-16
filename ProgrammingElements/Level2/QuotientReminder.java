@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
-class P06_QuotientReminder {
+class QuotientReminder
+
+/*
+ * Problem Statement:
+ * Write a program to calculate the quotient and remainder when one
+ * number is divided by another. The program should display both
+ * values clearly.
+ *
+ * This program demonstrates division and modulus operations in Java.
+ */
+{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Number1: ");

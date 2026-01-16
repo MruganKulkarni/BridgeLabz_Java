@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
-class P07_IntOperations {
+class IntOperations 
+
+/*
+ * Problem Statement:
+ * Write a program to perform a sequence of arithmetic operations
+ * involving integer values. The program should evaluate expressions
+ * using integers and display the results.
+ *
+ * This program highlights integer arithmetic and operator precedence.
+ */
+{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter a: ");

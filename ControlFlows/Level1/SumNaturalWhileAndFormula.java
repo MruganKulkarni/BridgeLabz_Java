@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
-class P12_SumNaturalWhileAndFormula {
+class SumNaturalWhileAndFormula
+/*
+ * Problem Statement:
+ * Write a program to calculate the sum of the first n natural numbers
+ * using a while loop and also using the mathematical formula.
+ * The program should display both results.
+ *
+ * This problem compares iterative and formula-based approaches.
+ */
+
+ {
 
     public static void main(String[] args) {
 

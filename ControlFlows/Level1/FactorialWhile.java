@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
-class P14_FactorialWhile {
+class FactorialWhile
+
+/*
+ * Problem Statement:
+ * Write a program to calculate the factorial of a given number
+ * using a while loop. The program should compute the factorial
+ * iteratively.
+ *
+ * This problem demonstrates multiplicative iteration.
+ */
+{
 
     public static void main(String[] args) {
 

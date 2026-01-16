@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Class to compute factorial using for loop
-class P15_FactorialFor {
+class FactorialFor {
 
     public static void main(String[] args) {
 

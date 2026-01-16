@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
-class P03_LargestOfThree
+class LargestOfThree
+
+/*
+ * Problem Statement:
+ * Write a program to find the largest among three given numbers.
+ * The program should compare all three values using conditional
+ * statements and display the largest one.
+ *
+ * This problem emphasizes nested conditional logic.
+ */
+
 {
     public static void main(String[] args)
     {

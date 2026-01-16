@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
-class P17_EmployeeBonus {
+class EmployeeBonus
+
+/*
+ * Problem Statement:
+ * Write a program to calculate an employee's bonus based on their
+ * salary and predefined bonus conditions. The program should
+ * evaluate eligibility and compute the bonus amount.
+ *
+ * This problem combines conditional logic with arithmetic operations.
+ */
+{
 
     public static void main(String[] args) {
 

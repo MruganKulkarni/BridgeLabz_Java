@@ -1,4 +1,13 @@
-class EarthVolume {
+class EarthVolume
+/*
+ * Problem Statement:
+ * Write a program to calculate the volume of the Earth assuming it to
+ * be a perfect sphere. The program should use the mathematical formula
+ * for the volume of a sphere using a given radius.
+ *
+ * This program demonstrates the use of mathematical constants and formulas.
+ */
+ {
     public static void main(String[] args) {
 
         double radiusKm = 6378;

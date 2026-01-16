@@ -1,6 +1,16 @@
 import java.util.Scanner;
 
-class P16_OddEvenPrinter {
+class OddEvenPrinter
+
+/*
+ * Problem Statement:
+ * Write a program to print whether numbers within a given range
+ * are odd or even. The program should evaluate each number and
+ * display the corresponding result.
+ *
+ * This problem applies looping with conditional checks.
+ */
+{
 
     public static void main(String[] args) {
 

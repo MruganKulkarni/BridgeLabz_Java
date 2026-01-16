@@ -1,6 +1,15 @@
 import java.util.Scanner;
 
-class P01_BasicCalculator {
+class BasicCalculator
+/*
+ * Problem Statement:
+ * Write a program to convert a given height from centimeters to feet
+ * and inches. The program should apply appropriate conversion logic
+ * to display the height in a readable format.
+ *
+ * This program illustrates unit conversion and arithmetic calculations.
+ */
+ {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
