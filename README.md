@@ -1,10 +1,6 @@
 # Daily Status Update
 
-<<<<<<< HEAD
-## 9th December 2025
-=======
 ## 9th January 2025
->>>>>>> 9919f9d (readme update)
 
 ### What I have done:
 * Created Github Workflow
@@ -16,11 +12,7 @@
 ### Issues faced:
 * Understanding and Learning Git
 
-<<<<<<< HEAD
-## 10th December 2025
-=======
 ## 10th January 2025
->>>>>>> 9919f9d (readme update)
 
 ### What I have done:
 * Level 1 Problems Programming Elements
@@ -32,11 +24,7 @@
 ### Issues faced:
 * Understanding Git and Resolving mistakes in organization of file structure in git
 
-<<<<<<< HEAD
-## 12th December 2025
-=======
 ## 12th January 2025
->>>>>>> 9919f9d (readme update)
 
 ### What I have done:
 * Level 3 Problems Programming Elements
@@ -48,11 +36,7 @@
 ### Issues faced:
 * No major issues faced, few coding questions were challenging.
 
-<<<<<<< HEAD
-## 13th December 2025
-=======
 ## 13th January 2025
->>>>>>> 9919f9d (readme update)
 
 ### What I have done:
 * Level 2 Problems Control Flows
@@ -63,11 +47,7 @@
 ### Issues faced:
 * Restructuring Branches and folder organization.
 
-<<<<<<< HEAD
-## 14th December 2025
-=======
 ## 14th January 2025
->>>>>>> 9919f9d (readme update)
 
 ### What I have done:
 * Level 1 Problems Arrays
@@ -80,11 +60,7 @@
 ### Issues faced:
 * Revision of concepts and lab practice within the given time.
 
-<<<<<<< HEAD
-## 15th December 2025
-=======
 ## 15th January 2025
->>>>>>> 9919f9d (readme update)
 
 ### What I have done:
 * Level 3 Problems Arrays
@@ -94,7 +70,6 @@
 * Methods lab practice
 
 ### Issues faced:
-<<<<<<< HEAD
 * None
 
 
@@ -103,6 +78,3 @@
 
 
 
-=======
-* None
->>>>>>> 9919f9d (readme update)
