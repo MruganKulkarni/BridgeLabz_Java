@@ -38,4 +38,3 @@ class P02_YoungestTallestFriends {
         input.close();
     }
 }
-
