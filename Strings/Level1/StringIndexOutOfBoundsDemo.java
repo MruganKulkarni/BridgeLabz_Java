@@ -10,6 +10,7 @@ public class StringIndexOutOfBoundsDemo {
      */
 
     void handleException(String text) {
+        // try catch block
         try {
             text.charAt(text.length());
         } catch (StringIndexOutOfBoundsException e) {

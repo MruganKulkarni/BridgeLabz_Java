@@ -10,6 +10,7 @@ public class NumberFormatExceptionDemo {
      */
 
     void handleException(String text) {
+        // Try catch block
         try {
             Integer.parseInt(text);
         } catch (NumberFormatException e) {

@@ -10,6 +10,7 @@ public class IllegalArgumentExceptionDemo {
      */
 
     void handleException(String text) {
+        // Try catch statement
         try {
             text.substring(5, 2);
         } catch (IllegalArgumentException e) {
