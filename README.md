@@ -183,17 +183,6 @@
 ### What I have done:
 * Level 1 Problems Arrays
 * Level 2 Problems Arrays
-* Theory Revision
-
-### What I will do next:
-* Arrays lab practice
-
-### Issues faced:
-* Revision of concepts and lab practice within the given time.
-
-## 15th January 2025
-
-### What I have done:
 * Level 3 Problems Arrays
 * Level 1 Problems Methods
 
@@ -201,7 +190,46 @@
 * Methods lab practice
 
 ### Issues faced:
+* Revision of concepts and lab practice within the given time.
+
+## 15th January 2025
+
+### What I have done:
+* Level 2 Problems Methods
+* Level 3 Problems Methods
+* Level 1 Problems Strings
+* Level 2 Problems Strings
+### What I will do next:
+* Strings and OOPS
+
+### Issues faced:
 * None
+
+## 16th January 2025
+
+### What I have done:
+* Level 3 Problems Strings
+* JavaClassAndObject
+* ConstructorsAndAccessModifiers
+* KeyAndInstances
+### What I will do next:
+* Remaining OOPS Concepts
+
+### Issues faced:
+* None
+
+## 17th January 2025
+
+### What I have done:
+* Inheritance
+* OOPDesignPrinciples
+* OOPCoreConcepts
+### What I will do next:
+* Data Strucutres and Algorithms
+
+### Issues faced:
+* None
+
 
 
 
