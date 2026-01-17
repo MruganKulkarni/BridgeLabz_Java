@@ -1,4 +1,4 @@
-package OOPDesignPrinciples.ObjectModelling.AssistedProblems.CompanyComposition;
+package OOPDesignPrinciples.ObjectModelling.Level1.CompanyComposition;
 public class Employee {
 
     /*

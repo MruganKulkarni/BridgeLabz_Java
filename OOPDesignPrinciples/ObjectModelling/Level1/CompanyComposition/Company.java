@@ -1,4 +1,4 @@
-package OOPDesignPrinciples.ObjectModelling.AssistedProblems.CompanyComposition;
+package OOPDesignPrinciples.ObjectModelling.Level1.CompanyComposition;
 import java.util.ArrayList;
 
 public class Company {

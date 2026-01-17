@@ -1,4 +1,4 @@
-package OOPDesignPrinciples.ObjectModelling.AssistedProblems.BankAssociation;
+package OOPDesignPrinciples.ObjectModelling.Level1.BankAssociation;
 public class Customer {
 
     /*

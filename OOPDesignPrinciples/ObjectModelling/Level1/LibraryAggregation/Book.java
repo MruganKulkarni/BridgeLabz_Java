@@ -1,4 +1,4 @@
-package OOPDesignPrinciples.ObjectModelling.AssistedProblems.LibraryAggregation;
+package OOPDesignPrinciples.ObjectModelling.Level1.LibraryAggregation;
 
 public class Book {
 
