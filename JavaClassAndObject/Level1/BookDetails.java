@@ -1,6 +1,6 @@
 package JavaClassAndObject.Level1;
 
-public class Book {
+public class BookDetails {
 
     /*
      * This class represents a Book with attributes such as title, author,
@@ -12,7 +12,7 @@ public class Book {
     private String author;
     private double price;
 
-    public Book(String title, String author, double price) {
+    public BookDetails(String title, String author, double price) {
         this.title = title;
         this.author = author;
         this.price = price;
@@ -26,7 +26,7 @@ public class Book {
     }
 
     public static void main(String[] args) {
-        Book book = new Book("Clean Code", "Robert C. Martin", 499);
+        BookDetails book = new BookDetails("Clean Code", "Robert C. Martin", 499);
         book.displayDetails();
     }
 }

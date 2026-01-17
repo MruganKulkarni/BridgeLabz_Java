@@ -1,6 +1,6 @@
 package JavaClassAndObject.Level1;
 
-public class Circle {
+public class CircleAreaCalculator {
 
     /*
      * This class models a Circle using its radius. It provides methods
@@ -10,7 +10,7 @@ public class Circle {
 
     private double radius;
 
-    public Circle(double radius) {
+    public CircleAreaCalculator(double radius) {
         this.radius = radius;
     }
 
@@ -31,7 +31,7 @@ public class Circle {
     }
 
     public static void main(String[] args) {
-        Circle circle = new Circle(7);
+        CircleAreaCalculator circle = new CircleAreaCalculator(7);
         circle.displayResults();
     }
 }

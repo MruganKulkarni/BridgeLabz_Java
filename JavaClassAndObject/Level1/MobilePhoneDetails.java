@@ -1,6 +1,6 @@
 package JavaClassAndObject.Level1;
 
-public class MobilePhone {
+public class MobilePhoneDetails {
 
     /*
      * This class models a Mobile Phone by storing its brand, model,
@@ -12,7 +12,7 @@ public class MobilePhone {
     private String model;
     private double price;
 
-    public MobilePhone(String brand, String model, double price) {
+    public MobilePhoneDetails(String brand, String model, double price) {
         this.brand = brand;
         this.model = model;
         this.price = price;
@@ -26,7 +26,7 @@ public class MobilePhone {
     }
 
     public static void main(String[] args) {
-        MobilePhone phone = new MobilePhone("Samsung", "Galaxy S23", 74999);
+        MobilePhoneDetails phone = new MobilePhoneDetails("Samsung", "Galaxy S23", 74999);
         phone.displayDetails();
     }
 }

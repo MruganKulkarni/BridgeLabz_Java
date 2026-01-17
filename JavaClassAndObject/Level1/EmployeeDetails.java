@@ -1,5 +1,5 @@
 package JavaClassAndObject.Level1;
-public class Employee {
+public class EmployeeDetails {
 
     /*
      * This class represents an Employee in an organization. It stores basic
@@ -12,7 +12,7 @@ public class Employee {
     private int id;
     private double salary;
 
-    public Employee(String name, int id, double salary) {
+    public EmployeeDetails(String name, int id, double salary) {
         this.name = name;
         this.id = id;
         this.salary = salary;
@@ -26,7 +26,7 @@ public class Employee {
     }
 
     public static void main(String[] args) {
-        Employee emp = new Employee("Rahul", 101, 55000);
+        EmployeeDetails emp = new EmployeeDetails("Rahul", 101, 55000);
         emp.displayDetails();
     }
 }
