@@ -230,6 +230,29 @@
 ### Issues faced:
 * None
 
+## 20th January 2025
+
+### What I have done:
+* Viva Revision
+
+### What I will do next:
+* First week review
+
+### Issues faced:
+* None
+
+## 21st January 2025
+
+### What I have done:
+* First Week Review
+* Revision for OOPS
+
+### What I will do next:
+* Git restructure
+
+### Issues faced:
+* None
+
 
 
 
