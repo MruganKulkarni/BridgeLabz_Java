@@ -253,6 +253,31 @@
 ### Issues faced:
 * None
 
+## 22nd January 2025
+
+### What I have done:
+* LinkedList
+* Stack, Queue, Hash Maps
+* Sorting Algorithms
+
+### What I will do next:
+* Remaining topics from data structures
+
+### Issues faced:
+* None
+
+## 23rd January 2025
+
+### What I have done:
+* Linear and Binary Search
+* Runtime Analysis
+
+### What I will do next:
+* Git restructure
+
+### Issues faced:
+* None
+
 
 
 
