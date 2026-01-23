@@ -1,6 +1,0 @@
-# IntelliJ volatile files
-.idea/workspace.xml
-.idea/tasks.xml
-
-# Java compiled files
-*.class
