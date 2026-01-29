@@ -278,6 +278,41 @@
 ### Issues faced:
 * None
 
+## 24th January 2025
+
+### What I have done:
+* OOPS Banner App Project
+* OOPS Review preparation
+
+### What I will do next:
+* OOPS Review
+
+### Issues faced:
+* None
+
+## 27th January 2025
+
+### What I have done:
+* OOPS Review
+* Java Generics
+
+### What I will do next:
+* Git restructure
+
+### Issues faced:
+* None
+
+## 28th January 2025
+
+### What I have done:
+* Java Collections
+* DSA Revision
+
+### What I will do next:
+* DSA Review
+
+### Issues faced:
+* None
 
 
 
