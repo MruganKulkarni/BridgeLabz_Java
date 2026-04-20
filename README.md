@@ -1,74 +1,127 @@
-# 📘 Daily Project Logs – BridgeLabz Training
+# 📘 Daily Progress Log — BridgeLabz Java Training
 
-- **08-Dec-2025 (Mon):** Installed IntelliJ IDEA and Eclipse IDE
-- **09-Dec-2025 (Tue):** Learned Java basics
-- **10-Dec-2025 (Wed):** Solved basic Java programs
-- **11-Dec-2025 (Thu):** Introduced to Git commands
-- **12-Dec-2025 (Fri):** Installed Git Bash and .NET SDK; completed GitHub setup
-- **13-Dec-2025 (Sat):** Learned C# fundamentals
+## 📅 December 2025
 
-- **15-Dec-2025 (Mon):** Completed Programming Elements (Level 1 & 2)
-- **16-Dec-2025 (Tue):** Learned Control Flow; completed Level 1 & 2
-- **17-Dec-2025 (Wed):** Performed Git tasks; completed Control Flow Level 3
-- **18-Dec-2025 (Thu):** Practiced Git merge and rebase; completed Arrays Level 1
-- **19-Dec-2025 (Fri):** Revised core C# and .NET concepts
-- **20-Dec-2025 (Sat):** Practiced Git commands; completed Arrays Level 2 and Methods Level 1 & 2
+- **08-Dec-2025 (Monday):** Set up the complete Java development environment including VS Code, Visual Studio, IntelliJ IDEA, Eclipse, and Git.
+- **09-Dec-2025 (Tuesday):** Studied Java fundamentals — What is Java, JDK, JVM, JRE, features of Java, data types, variables, and basic syntax.
+- **10-Dec-2025 (Wednesday):** Practiced basic Java programs and learned Git basics (git init, git add, git commit, git push). Uploaded first Java programs to GitHub.
+- **11-Dec-2025 (Thursday):** Learned and practiced String basics, array introduction, and input–output based Java programs.
+- **12-Dec-2025 (Friday):** Focused entirely on arrays — initialization, traversal, memory allocation, and basic array problem solving.
+- **13-Dec-2025 (Saturday):** Practiced Java methods — defining, calling, parameter passing, return types, and method-based programs.
+- **15-Dec-2025 (Monday):** Solved Level 1 & Level 2 programming element problems including user input, command-line input, and real-world Java tasks.
+- **16-Dec-2025 (Tuesday):** Studied and practiced control flow — conditionals, loops (for, while, do-while), switch-case, and completed Level 1–3 problems.
+- **17-Dec-2025 (Wednesday):** Practiced Java arrays in depth — 1D & 2D arrays, logical array problems, and Level 1–2 challenges.
+- **18-Dec-2025 (Thursday):** Completed advanced method-based problems, applied methods to real scenarios, improved code structure, and organized work using proper Git branching.
+- **19-Dec-2025 (Friday):** Completed Java Methods Practice Problems.
+- **20-Dec-2025 (Saturday):** Completed extra Java String practice problems and explored Java built-in functions (String functions & Date-Time functions).
+- **22-Dec-2025 (Monday):** Studied Object-Oriented Programming Fundamentals.
+- **23-Dec-2025 (Tuesday):** Completed and submitted Java Class and Object problems.
 
-- **22-Dec-2025 (Mon):** Completed advanced Git practice and reviewed previously implemented programs
-- **23-Dec-2025 (Tue):** Revised and strengthened understanding of completed modules
+---
 
-- **08-Jan-2026 (Thu):** Revisited Java fundamentals including variables, data types, operators, and I/O concepts
-- **09-Jan-2026 (Fri):** Continued Java training with an introduction to backend concepts
-- **10-Jan-2026 (Sat):** Practiced Java programs and initialized a dedicated Java GitHub repository
+## 📅 January 2026
 
-- **12-Jan-2026 (Mon):** Completed Programming Elements Level 1 & 2
-- **13-Jan-2026 (Tue):** Studied Control Flow concepts in depth
-- **14-Jan-2026 (Wed):** Completed Control Flow Levels 1–3 and committed implementations to `feature/CoreProgramming`
-- **15-Jan-2026 (Thu):** Practiced Arrays Level 1 & 2 and completed Strings Level 1 & 2
-- **16-Jan-2026 (Fri):** Completed Strings Level 3 and Methods; pushed finalized programs to GitHub and resolved issues
+- **09-Jan-2026 (Friday):** Studied `this`, `static`, `final` keywords, and the `instanceof` operator; finished Level-1 lab practice.
+- **10-Jan-2026 (Saturday):** Studied Object Modeling and Class Diagrams; submitted Object-Oriented Design Principles assignment.
+- **12-Jan-2026 (Monday):** Studied Inheritance and completed assignment submission.
+- **13-Jan-2026 (Tuesday):** Studied Encapsulation, Interface, Abstract Classes, and Polymorphism; submitted practice problems.
+- **14-Jan-2026 (Wednesday):** Studied Data Structures Introduction & LinkedList; completed LinkedList practice submission.
+- **16-Jan-2026 (Friday):** Updated Git structure and studied Stack and Queue.
+- **17-Jan-2026 (Saturday):** Studied and practiced sorting algorithms.
+- **19-Jan-2026 (Monday):** Studied Linear Search and Binary Search; completed Week-2 review.
+- **20-Jan-2026 (Tuesday):** Practiced problems on Linear Search and Binary Search.
+- **21-Jan-2026 (Wednesday):** Studied and practiced problems on runtime analysis.
+- **22-Jan-2026 (Thursday):** Completed remaining problems on runtime analysis.
+- **23-Jan-2026 (Friday):** Completed project till use-case three.
+- **24-Jan-2026 (Saturday):** Completed project till use-case eight and review done.
+- **27-Jan-2026 (Tuesday):** Studied and practiced problems on Java Generics.
+- **28-Jan-2026 (Wednesday):** Studied and practiced problems on Java Collections.
+- **29-Jan-2026 (Thursday):** Completed Java Generics and started assigned project.
+- **30-Jan-2026 (Friday):** Gave review and completed the project.
+- **31-Jan-2026 (Saturday):** Studied and practiced problems on Java IO Streams.
 
-- **17-Jan-2026 (Sat):** Enhanced code readability with comments, completed keyword-based problems, reinforced Class & Object concepts, and refined package structure
-- **20-Jan-2026 (Tue):** Completed inheritance and encapsulation concepts as part of the Object-Oriented Programming module
-- **21-Jan-2026 (Wed):** Completed object modelling for the OOPS feature and standardized package naming conventions
-- **22-Jan-2026 (Thu):** Solved and consolidated problems on Stack, Queue, HashMap, Sorting, and Linear & Binary Search algorithms and gave review
-- **23-Jan-2026(Fri):** Started Doing the OOPS Banner App Project
-- **24-Jan-2026(Sat):** Gave OOPS review and completed OOPS Banner APP till UC6 Feature
-- **27-Jan-2026(Tue):** Done with OOPS Banner APP and Started doing Java Collections and Streams
-- **28-Jan-2026(Wed):** Completed Java Generics from Collections and Streams, revising DSA for review
-- **29-Jan-2026(Thu):** Completed Collections and Started with Factory Robot hazard Analyzer
-- **30-Jan-2026(Fri):** Completed the Factory Robot Hazard Analyzer and Given DSA review
-- **31-Jan-2026(Sat):** Started the Java Stream Questions and revised DSA Questions for written test
-- **1-Feb-2026(Mon):** Completed Java Streams Questions, given DSA written test and started Java Exceptions Questions.
-- **01-Feb-2026(Sun):** Revised Java Streams and practiced Stream API problems
-- **02-Feb-2026(Mon):** Completed Java IO Streams concepts and started working on Java Exceptions
-- **03-Feb-2026(Tue):** Practiced Exception Handling programs and completed Exception assignments
-- **04-Feb-2026(Wed):** Started learning Java Regex and pattern matching basics
-- **05-Feb-2026(Thu):** Completed Regex exercises and started learning JUnit testing
-- **06-Feb-2026(Fri):** Practiced JUnit test cases for previous Java programs and debugging
-- **07-Feb-2026(Sat):** Attended first Power Skills session and revised Java Collections and Streams
-- **09-Feb-2026(Mon):** Gave DSA and Java review and practiced Stream API programs
-- **10-Feb-2026(Tue):** Continued practicing Stream API operations like filter, map and reduce
-- **11-Feb-2026(Wed):** Started IO Programming module and learned CSV Data Handling
-- **12-Feb-2026(Thu):** Implemented CSV file reading and writing programs
-- **13-Feb-2026(Fri):** Practiced CSV data parsing and file processing programs
-- **14-Feb-2026(Sat):** Attended Power Skills session and revised IO programming concepts
-- **16-Feb-2026(Mon):** Gave weekly review and started learning Java Annotations
-- **17-Feb-2026(Tue):** Practiced Reflection API and annotation examples
-- **18-Feb-2026(Wed):** Started studying Design Patterns and their real-world usage
-- **19-Feb-2026(Thu):** Implemented Singleton and Factory Design Pattern examples
-- **20-Feb-2026(Fri):** Practiced Design Pattern exercises and reviewed concepts
-- **21-Feb-2026(Sat):** Attended Power Skills session and revised Design Pattern concepts
-- **23-Feb-2026(Mon):** Started learning Java Multithreading and thread lifecycle
-- **24-Feb-2026(Tue):** Gave review and practiced multithreading synchronization examples
-- **25-Feb-2026(Wed):** Started MySQL Database module and installed MySQL
-- **26-Feb-2026(Thu):** Practiced database creation, tables and SQL queries
-- **27-Feb-2026(Fri):** Started JDBC Introduction and implemented database connectivity
-- **28-Feb-2026(Sat):** Attended Power Skills session and revised JDBC concepts
-- **02-Mar-2026(Mon):** Implemented JDBC Prepared Statements and CRUD operations
-- **03-Mar-2026(Tue):** Practiced JDBC Transactions and error handling programs
-- **04-Mar-2026(Wed):** Started Java Backend concepts and learned Tomcat Server
-- **05-Mar-2026(Thu):** Implemented basic Servlet program and deployed on Tomcat
-- **06-Mar-2026(Fri):** Started learning Spring Boot basics and project setup
-- **07-Mar-2026(Sat):** Attended Power Skills session and revised Spring Boot fundamentals
-- **09-Mar-2026(Mon):** Implemented simple Spring Boot REST API and tested endpoints and gave review on the topic JDBC,SQL and ER
-- **10-Mar-2026(Tue):** Revised Java Backend concepts including Servlet, JDBC and Spring Boot
+---
+
+## 📅 February 2026
+
+- **02-Feb-2026 (Monday):** Studied and practiced problems on Java Exception Handling.
+- **03-Feb-2026 (Tuesday):** Completed remaining problems on Java Exception Handling.
+- **04-Feb-2026 (Wednesday):** Studied and practiced problems on Java Regex.
+- **05-Feb-2026 (Thursday):** Studied and practiced problems on Java JUnit.
+- **06-Feb-2026 (Friday):** Completed JUnit practice problems and review.
+- **07-Feb-2026 (Saturday):** Attended Session-1 Soft Skills.
+- **09-Feb-2026 (Monday):** Studied and practiced Java 8 features.
+- **10-Feb-2026 (Tuesday):** Studied and practiced Streams API.
+- **11-Feb-2026 (Wednesday):** Completed Streams API practice problems.
+- **12-Feb-2026 (Thursday):** Studied and practiced CSV Data Handling.
+- **13-Feb-2026 (Friday):** Completed Lexical Twist Puzzle Task.
+- **14-Feb-2026 (Saturday):** Attended Power Skills Session.
+
+- **16-Feb-2026 (Monday):** Studied Tree and Graph data structures.
+- **17-Feb-2026 (Tuesday):** Completed problems on Tree data structure and review.
+- **18-Feb-2026 (Wednesday):** Completed Tree and Graph data structures.
+- **19-Feb-2026 (Thursday):** Completed CSV files.
+- **20-Feb-2026 (Friday):** Studied Reflection and Annotations.
+- **21-Feb-2026 (Saturday):** Attended Power Skills Session – 3.
+- **23-Feb-2026 (Monday):** Completed Design Patterns and Design Principles.
+- **24-Feb-2026 (Tuesday):** Completed Multithreading.
+- **25-Feb-2026 (Wednesday):** Completed MySQL Practice.
+- **26-Feb-2026 (Thursday):** Completed ER Diagram and JDBC.
+- **27-Feb-2026 (Friday):** Completed use case of Quantity Measurement App.
+- **28-Feb-2026 (Saturday):** Attended Power Skills Session – 4.
+
+---
+
+## 📅 March 2026
+
+- **02-March-2026 (Monday):** Completed Quantity Measurement Application development.
+- **03-March-2026 (Tuesday):** Practiced JDBC Transactions through problem-solving.
+- **04-March-2026 (Wednesday):** Worked with and completed JSON data handling.
+- **05-March-2026 (Thursday):** Initiated learning of Tomcat Servlet.
+- **06-March-2026 (Friday):** Completed hands-on practice with Tomcat Servlet Server.
+- **07-March-2026 (Saturday):** Attended Power Skills Session.
+
+- **09-March-2026 (Monday):** Started learning Spring Framework basics.
+- **10-March-2026 (Tuesday):** Practiced Spring basics and environment setup.
+- **11-March-2026 (Wednesday):** Began development using Spring REST APIs.
+- **12-March-2026 (Thursday):** Practiced implementation of Spring REST APIs.
+- **13-March-2026 (Friday):** Revised Spring and Spring REST API concepts.
+- **14-March-2026 (Saturday):** Attended Power Skills Session.
+
+- **16-March-2026 (Monday):** Reviewed previous concepts and strengthened understanding of Spring fundamentals.
+- **17-March-2026 (Tuesday):** Started Spring Framework with focus on Multi-Layer Architecture.
+- **18-March-2026 (Wednesday):** Attempted Mock Test and continued learning Spring concepts.
+- **20-March-2026 (Friday):** Completed initial setup of Spring Employee Payroll Application.
+
+- **23-March-2026 (Monday):** Prepared for Module 1 (M1) Assessment.
+- **24-March-2026 (Tuesday):** Attempted M1 Test and implemented next use case for Employee Payroll Application.
+- **25-March-2026 (Wednesday):** Started development of Address Book Application.
+- **26-March-2026 (Thursday):** Completed use case implementation for Address Book Application.
+- **27-March-2026 (Friday):** Implemented next use cases for Address Book Application.
+- **28-March-2026 (Saturday):** Attended and practice soft skills session.
+- **30-March-2026 (Monday):** Implemented next use cases for Hospital Management System.
+- **31-March-2026 (Tuesday):** Started Learning Spring Security.
+
+---
+
+## 📅 April 2026
+- **01-April-2026 (Wednesday):** Started Practicing Spring Security.
+- **02-April-2026 (Thursday):** Completed Spring Security.
+- **03-April-2026 (Friday):** Started FundooNotes project.
+- **04-April-2026 (Saturday):** Attended Power Skills Session.
+- **06-April-2026 (Monday):** Completed UC15 of QuantityMeasurementApp.
+- **07-April-2026 (Tuesday):** Started Part2 of FundooNotes.
+- **08-April-2026 (Wednesday):** Implemented the learned concepts in part2 of FundooNotes.
+- **09-April-2026 (Thursday):** Learn about Redis + caching and implemented UC16 of QuantityMeasurementApp.
+
+- **10-April-2026 (Friday):** Practice JMS and Redis and learn proper flow of it.
+- **11-April-2026 (Saturday):** Attended Power Skills Session.
+- **13-April-2026 (Monday):** Learn about RabbitMQ and how it works.
+- **15-April-2026 (Wednesday):** Learn about Spring batch with excel.
+- **16-April-2026 (Thursday):** Practice Spring batch with excel + also learn basic about microservices.
+- **17-April-2026 (Friday):** Learn About another concepts of microservices.
+- **18-April-2026 (Saturday):** Attended Power Skills Session.
+
+
+
+---
